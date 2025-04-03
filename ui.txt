@@ -1,6 +1,6 @@
-UI/Language/Name=English (US)
+UI/Language/Name=English (Technical Florr)
 # These are the translators that worked on this translation. Separate with <n/>
-UI/Language/Credits=
+UI/Language/Credits=ELEndermanMC
 
 UI/Title/Loading=Loading...
 UI/Title/Connecting=Connecting...
